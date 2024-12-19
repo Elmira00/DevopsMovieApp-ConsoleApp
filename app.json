@@ -1,0 +1,5 @@
+{
+  "AzureStorage": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=stepaccount;AccountKey=PDiICWENAFBkFapV/cL6Vs59w0lB4EcRR1GrT6VNX2gHZ5u5CW/CyUbLy62Afe0dYQy7KnNvrn7R+AStARJMzw==;BlobEndpoint=https://stepaccount.blob.core.windows.net/;QueueEndpoint=https://stepaccount.queue.core.windows.net/;TableEndpoint=https://stepaccount.table.core.windows.net/;FileEndpoint=https://stepaccount.file.core.windows.net/;"
+  },
+}
