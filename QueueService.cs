@@ -1,6 +1,6 @@
 ﻿using Azure.Storage.Queues;
 
-namespace DevopsMovieApp_CosoleApp.Services
+namespace DevopsMovieApp_ConsoleApp.Services
 {
     public class QueueService : IQueueService
     {
