@@ -1,4 +1,4 @@
-﻿namespace DevopsMovieApp_CosoleApp.Services
+﻿namespace DevopsMovieApp_ConsoleApp.Services
 {
     internal interface IQueueService
     {
