@@ -1,7 +1,7 @@
-﻿using DevopsMovieApp_CosoleApp.Services;
+﻿using DevopsMovieApp_ConsoleApp.Services;
 using Microsoft.Extensions.Configuration;
 
-namespace DevopsMovieApp_CosoleApp
+namespace DevopsMovieApp_ConsoleApp
 {
     public class Program
     {
